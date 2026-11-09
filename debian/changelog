@@ -1,3 +1,10 @@
+nordic (2.2.0+git20260723-1) focal; urgency=medium
+
+  [ rego-port-bot ]
+  * feat: update to upstream 2.2.0+git20260723
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 08 Nov 2026 20:20:00 -0800
+
 nordic (2.1.0-3) focal; urgency=medium
 
   [ Khosrow Moossavi ]
